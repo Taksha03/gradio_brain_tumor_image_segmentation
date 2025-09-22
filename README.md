@@ -2,7 +2,7 @@
 
 This project provides an end-to-end solution for detecting and segmenting brain tumors from MRI scans using a custom-trained YOLOv8 model. It features a user-friendly web interface built with Gradio for easy interaction and visualization.
 
-![Gradio App Screenshot](gradio_app_ss.jpg)
+![Gradio App Screenshot](gradio_app_ss.png)
 
 
 ## ✨ Features
